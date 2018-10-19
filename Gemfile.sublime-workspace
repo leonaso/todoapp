@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"an",
+				"anything"
+			],
+			[
+				"pre",
+				"Predawn"
+			],
+			[
+				"user",
+				"user_params"
+			],
+			[
+				"all",
+				"all\tall? { |e| .. }"
+			],
+			[
+				"app",
+				"application"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ssru",
+				"Set Syntax: Ruby on Rails"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 219.0,
+		"history":
+		[
+			"exit",
+			"clear",
+			"?/",
+			"help",
+			"dir",
+			"ls",
+			"print",
+			"set",
+			"ruby",
+			"irb",
+			"puts",
+			"puts \"we\"",
+			"-h",
+			"ls",
+			"help",
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			".help",
+			"help",
+			"new",
+			"say_hello.html.erb",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/todoapp/app/views/layouts/mailer.html.erb",
+		"/C/Sites/todo/app/controllers/lists_controller.rb",
+		"/C/Sites/todo/Gemfile",
+		"/C/apps/rails_projects/alpha-blog/Gemfile",
+		"/C/apps/rails_projects/alpha-blog/app/views/pages/home.html.erb",
+		"/C/apps/rails_projects/alpha-blog/README.rdoc",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 3/Packages/User/RubyTest.sublime-settings",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/apps/rails_projects/alpha-blog/config/routes.rb",
+		"/C/apps/rails_projects/alpha-blog/app/views/pages/about.html.erb",
+		"/C/apps/rails_projects/alpha-blog/app/views/home.html.erb",
+		"/C/apps/rails_projects/alpha-blog/app/controllers/pages_controller.rb",
+		"/C/apps/rails_projects/rspec_app/.rspec",
+		"/C/apps/rails_projects/rspec_app/spec/models/student_spec.rb",
+		"/C/apps/rails_projects/rspec_app/app/models/student.rb",
+		"/C/apps/rails_projects/rspec_app/Gemfile",
+		"/C/apps/rails_projects/recetasrails/spec/models/chef_spec.rb",
+		"/C/apps/rails_projects/recetasrails/spec/factories/chefs.rb",
+		"/C/apps/rails_projects/recetasrails/Gemfile",
+		"/C/apps/rails_projects/recetasrails/config/application.rb",
+		"/C/apps/rails_projects/recetasrails/.rspec",
+		"/C/apps/rails_projects/recetasrails/spec/spec_helper.rb",
+		"/C/apps/rails_projects/recetasrails/Gemfile.lock",
+		"/C/apps/rails_projects/ruby_projects/helloworldstring.rb",
+		"/C/apps/rails_projects/actionview_app/app/views/students/index.html.erb",
+		"/C/apps/rails_projects/actionview_app/app/views/layouts/application.html.erb",
+		"/C/apps/rails_projects/actionview_app/config/routes.rb",
+		"/C/apps/rails_projects/actionview_app/db/seeds.rb",
+		"/C/apps/rails_projects/ruby_projects/helloworldmethod.rb",
+		"/C/apps/rails_projects/ruby_projects/helloworld.rb",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Nancy/Downloads/Edu/EDX/Bootstrap/build/bootstrap-3.3.5-dist/bootstrap-3.3.5-dist/index.html",
+		"/C/Users/Nancy/Downloads/Edu/EDX/Bootstrap/build/bootstrap-3.3.5-dist/bootstrap-3.3.5-dist/style/bootstrap-theme.css",
+		"/C/Users/Nancy/Downloads/Edu/EDX/Bootstrap/build/bootstrap-3.3.5-dist/bootstrap-3.3.5-dist/scripts/bootstrap.js",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/IBM/RFT8/eclipse.ini",
+		"/C/apps/rails_projects/hello_contacts/app/views/hello/index.html.erb",
+		"/C/apps/rails_projects/hello_contacts/app/views/layouts/application.html.erb",
+		"/C/apps/rails_projects/hello_contacts/config/routes.rb",
+		"/C/apps/rails_projects/hello_contacts/app/views/hello/respond.html.erb",
+		"/C/apps/rails_projects/hello_contacts/app/controllers/hello_controller.rb",
+		"/C/apps/grailsProjects/student_app/grails-app/domain/com/jpassion/Student.groovy",
+		"/C/apps/rails_projects/helloworld_app/app/views/layouts/application.html.erb",
+		"/C/apps/rails_projects/helloworld_app/app/controllers/hello_controller.rb",
+		"/C/apps/rails_projects/helloworld_app/app/views/hello/say_hello.html.erb",
+		"/C/apps/rails_projects/helloworld_app/config/routes.rb",
+		"/C/apps/rails_projects/helloworld_app/app/views/hello/say_goodbye.html.erb",
+		"/C/apps/rails_projects/helloworld_app/log/development.log",
+		"/C/apps/rails_projects/helloworld_app/app/controllers/application_controller.rb",
+		"/C/Sites/helloblog/app/controllers/welcome_controller.rb",
+		"/C/Sites/helloblog/app/views/welcome/index.html.erb",
+		"/C/Sites/helloblog/config/routes.rb",
+		"/C/Sites/helloblog/app/controllers/application_controller.rb",
+		"/C/Sites/helloblog/app/views/welcome/helloblog.html.erb",
+		"/C/Sites/helloblog/app/views/welcome/.html.erb",
+		"/C/Users/Nancy/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Sites/helloBlog/app/views/welcome/say_hello.html.erb",
+		"/C/Sites/helloBlog/config/routes.rb",
+		"/C/Sites/helloBlog/app/controllers/welcome_controller.rb",
+		"/C/Sites/helloBlog/app/views/hello_blog/say_hello.html.erb",
+		"/C/Sites/helloBlog/app/controllers/hello_blog_controller.rb",
+		"/C/Sites/helloBlog/app/views/articles/new.html.erb",
+		"/C/Sites/helloBlog/app/views/layouts/application.html.erb",
+		"/C/Sites/helloBlog/app/controllers/articles_controller.rb",
+		"/C/Sites/helloBlog/app/controllers/my_first_ruby_app.rb",
+		"/C/Sites/helloBlog/.gitignore",
+		"/C/Sites/helloBlog/app/views/welcome/index.html.erb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
