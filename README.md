@@ -68,7 +68,7 @@ Things you may want to cover:
 - Todo.find(params[:id])
 
 	Version Control:
-		git config --global <user.name> "my github user name"
+		git config --global <user.name> "my git user name"
 		git config --global <user.email "myemail@domail.com"
 	
 		cd to application directory
