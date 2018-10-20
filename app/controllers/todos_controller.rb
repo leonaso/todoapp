@@ -1,6 +1,10 @@
 class TodosController < ApplicationController
 	protect_from_forgery with: :exception
 
+	def index
+		@todos = Todo.all
+	end
+	
 	def new
 		@todo = Todo.new
 	end

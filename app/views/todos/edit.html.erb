@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Edit a todo</title>
-</head>
-<body>
-	<h1>Editing a todo</h1>
 
-	<% if @todo.errors.any? %>
+<h1>Editing a todo</h1>
+
+<% if @todo.errors.any? %>
 	<h2> This error prevented saving the todo </h2>
 	<ul>
 		<% @todo.errors.full_messages.each do  |msg| %>
@@ -16,23 +11,20 @@
 <% end %>
 
 <%= form_for @todo do |f| %>
+	<p>
+		<%= f.label :name %> <br>
+		<%= f.text_field :name %>
+	</p>
 
-<p>
-	<%= f.label :name %> <br>
-	<%= f.text_field :name %>
-</p>
+	<p>
+		<%= f.label :description %> <br>
+		<%= f.text_area :description %>
+	</p>
 
-
-<p>
-	<%= f.label :description %> <br>
-	<%= f.text_area :description %>
-</p>
-
-<p>
-	<%= f.submit %>
-</p>
+	<p>
+		<%= f.submit %>
+	</p>
 
 <% end %>
 
-</body>
-</html>
+<%= link_to "Back to todos listing", todos_path %>
