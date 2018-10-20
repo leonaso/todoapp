@@ -70,7 +70,7 @@ Things you may want to cover:
 	Version Control:
 		git config --global <user.name> "my git user name"
 		git config --global <user.email "myemail@domail.com"
-	
+		
 		cd to application directory
 
 Initialize repository:
@@ -85,9 +85,13 @@ Check status
 Commit to save your files	
 	git commit -m "Initial commit comment"
 
+	git push -u origin master	
+		
 
 
 -
 
 
 	
+	git push -u origin master	
+		
