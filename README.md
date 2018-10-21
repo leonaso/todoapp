@@ -89,9 +89,7 @@ Commit to save your files
 		
 -	CRUD databse operations completed from the browser's UI
 
+- Create a partial to refactor code
+
 -
 
-
-	
-	git push -u origin master	
-		
