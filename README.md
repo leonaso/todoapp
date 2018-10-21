@@ -87,7 +87,7 @@ Commit to save your files
 
 	git push -u origin master	
 		
-
+-	CRUD databse operations completed from the browser's UI
 
 -
 
