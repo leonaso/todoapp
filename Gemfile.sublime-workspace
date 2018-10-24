@@ -246,6 +246,10 @@
 	{
 		"height": 0.0
 	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "",
 	"project": "Gemfile.sublime-project",
 	"replace":

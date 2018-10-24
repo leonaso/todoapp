@@ -92,4 +92,21 @@ Commit to save your files
 - Create a partial to refactor code
 
 -	Deploy to production
+	git --version
+	git status
+	git add -A
+	git commit -m "your comments"
+	git status
+	git push -u origin master
+
+
+	heroku --version
+	heroku login
+	heroku keys:add
+	heroku create
+	git push heroku master
+	heroku run rails db:migrate
+	heroku rename <new appname>
+
+
 
